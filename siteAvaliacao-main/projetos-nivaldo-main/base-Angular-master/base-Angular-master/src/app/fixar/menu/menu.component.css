@@ -1,0 +1,13 @@
+.navbar{
+    background-color: transparent;
+    font-weight: bold;
+    z-index: 3;
+}
+.navbar-brand{
+    color:#8A7757;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-nav a{
+    color: #8A7757;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
